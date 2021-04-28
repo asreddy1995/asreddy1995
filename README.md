@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asreddy1995
 - 👀 I’m interested in Natural Language Procssing with Machine leanring.
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently for a position in NLP.
 - 💞️ I’m looking to collaborate on for an Internship/Workingstudent.
 - 📫 How to reach me with E-mail :Annapareddysatyan@gmail.com/ Through Git
 
